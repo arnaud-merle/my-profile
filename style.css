@@ -6,8 +6,7 @@ body{
 }
 
 .card{
-	padding-right: 12px;
-	padding-left: 12px;
+	padding: 10px 20px 20px 10px;
 	margin: 0 auto;
 	margin-top: 20px;
 	width: 40%;
