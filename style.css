@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400');
 
 body{
 	font-family: 'Roboto', sans-serif;
@@ -6,6 +6,7 @@ body{
 }
 
 .card{
+	padding: 12px;
 	margin: 0 auto;
 	width: 70%;
 	background-color: white;
